@@ -19,14 +19,8 @@ A clear, actionable proposal is delivered with key metrics and a simple 'Accept'
 Users can dive deeper, questioning the AI in natural language to understand its reasoning before making a decision.
 
 ### Mobile Interface Overview
+<img width="2932" height="1768" alt="guihub-imageonline co-merged" src="https://github.com/user-attachments/assets/cd48dee1-f16d-4d6e-b721-e9e5c207f723" />
 
-![Aura Finance Mobile Interface 1](https://drive.google.com/file/d/1Xd0o9dCdyCrZb1P9LYnv_IGi_BOWHRY3/view?usp=sharing)
-
-![Aura Finance Mobile Interface 2](https://drive.google.com/file/d/1IG75rdM8i-s-IS2sXVS4ndxzHndpANyh/view?usp=sharing)
-
-![Aura Finance Mobile Interface 3](https://drive.google.com/file/d/1KXJzCNCQFjFqkglHWSCUAs6T7_WM6IbC/view?usp=sharing)
-
-![Aura Finance Mobile Interface 4]<img width="780" height="1768" alt="portfolio" src="https://github.com/user-attachments/assets/8d7ff86d-8a88-4ce9-a926-da0664260138" />
 
 
 
