@@ -26,7 +26,8 @@ Users can dive deeper, questioning the AI in natural language to understand its 
 
 ![Aura Finance Mobile Interface 3](https://drive.google.com/file/d/1KXJzCNCQFjFqkglHWSCUAs6T7_WM6IbC/view?usp=sharing)
 
-![Aura Finance Mobile Interface 4](https://drive.google.com/file/d/1S9iF71tBDAsN-KRRSwNTMkJliNa78Rn_/view?usp=sharing)
+![Aura Finance Mobile Interface 4]<img width="780" height="1768" alt="portfolio" src="https://github.com/user-attachments/assets/8d7ff86d-8a88-4ce9-a926-da0664260138" />
+
 
 
 ## Core Architecture: The Collaborative AI Agent Network
